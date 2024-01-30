@@ -1,1 +1,2 @@
-stucuxu6x7iltict7i7ct78oc7ixr6
+const test = "Hello";
+console.log(test);
